@@ -1,0 +1,14 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "main": "groq-proxy.js",
+    "type": "module",
+    "scripts": {
+        "start": "node groq-proxy.js",
+        "dev": "nodemon groq-proxy.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "nodemon": "^3.0.0"
+    }
+}
